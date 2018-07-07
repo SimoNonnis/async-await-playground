@@ -1,0 +1,23 @@
+{
+  "name": "async-await-playground",
+  "version": "1.0.0",
+  "description": "A playground to experiment with async/await",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SimoNonnis/async-await-playground.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SimoNonnis/async-await-playground/issues"
+  },
+  "homepage": "https://github.com/SimoNonnis/async-await-playground#readme",
+  "dependencies": {
+    "node-fetch": "^2.1.2"
+  }
+}
